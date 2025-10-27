@@ -11,10 +11,3 @@ Verification (The Employer's Role): You can copy the generated Record ID and pas
 
 This addresses the core issues of forgery prevention, instant verification, and reduced administrative burden—the three key advantages of a Learning Passport.
 
-What would you like to explore next? We could:
-
-Expand the Data Model: Integrate Problem 1.3 by adding fields to capture "hidden skills" like Peer Review Scores or Project Links (Proof of Skill).
-
-Create the Reward Token: Implement a basic version of Problem 2 by creating a UI to mint and display a mock $APECTOKEN reward for completing this credential.
-
-Design the Dual-Degree Structure: Outline the curriculum and module structure for the "Entrepreneurship & Data Science" dual degree.
