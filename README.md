@@ -5,7 +5,8 @@ https://gemini.google.com/share/b2857157f740
 
 <img width="1536" height="1024" alt="IMG_1321" src="https://github.com/user-attachments/assets/44f24695-94f1-4035-8b1a-4873eb4b8b7d" />
 
-https://gemini.google.com/share/b2857157f740![IMG_1323](https://github.com/user-attachments/assets/de30dbdc-b72c-4546-a9f3-9caf13923bf2)
+
+![IMG_1323](https://github.com/user-attachments/assets/47e64e86-7fe8-4f39-8250-c5be9e269148)
 
 
 Summary of Solution
