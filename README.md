@@ -3,6 +3,9 @@ This application provides a working model for your Learning Passport problem, sp
 
 https://gemini.google.com/share/b2857157f740
 
+![Uploading IMG_1321.png…]()
+
+
 Summary of Solution
 
 Issuance (The University's Role): When you click "Issue Credential", the app sends the student data to the Gemini API. The API generates a unique, cryptographically-secure hash and a digital signature. This simulates the university signing the credential and recording its hash on the blockchain. The complete record is saved to Firestore (our distributed data ledger).
